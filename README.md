@@ -1,3 +1,3 @@
-!(/media/aptic.png)[Aptic]
+![Aptic](/media/aptic.png)
 
 Aptic Package Manager.
